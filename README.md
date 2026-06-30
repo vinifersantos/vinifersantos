@@ -85,20 +85,6 @@ Estou trabalhando para sair da dependência de plataformas fechadas e assumir ma
 
 </div>
 
----
-
-## 🚀 Missões em andamento
-
-| Missão | Setor | Descrição | Status |
-| :----- | :---- | :-------- | :----: |
-| 🧠 **ALMICAR SYSTEM** | Operação & controle | Estruturação e migração para uma base mais profissional, mantendo layout, funcionalidades e independência técnica. | 🟢 Ativa |
-| 📅 **VOTANC Agenda** | Agendamentos | Plataforma Azure-first com páginas públicas, painel admin, confirmações e fluxo operacional para consultores. | 🟢 Ativa |
-| 📈 **Vincere Sales** | Vendas & BI | Performance comercial, indicadores e inteligência de operação. | 🟡 Em desenho |
-| ⏱️ **Vinchronos** | Tempo & agenda | Sistema de tempo com estética dev, alto contraste e experiência mais objetiva que calendários tradicionais. | 🟡 Em desenho |
-| 🛒 **Shopify Dev Path** | E-commerce | Desenvolvimento Shopify e soluções para negócios digitais. | 🔭 Explorando |
-
----
-
 ## 🧬 Minha combinação rara
 
 ```yaml
