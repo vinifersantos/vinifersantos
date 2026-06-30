@@ -118,12 +118,12 @@ Eu não quero apenas escrever código. Quero construir sistemas com **clareza, u
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vinifersantos&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinifersantos&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vinifersantos&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=pt-br&cache_seconds=1800" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinifersantos&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&cache_seconds=1800" alt="Linguagens mais usadas" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinifersantos&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinifersantos&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 
 </div>
 
