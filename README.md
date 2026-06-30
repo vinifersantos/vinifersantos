@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-**[ 🛸 Sobre ](#-sobre-mim) · [ 🖥️ Stack ](#️-tecnologias-e-ferramentas) · [ 🚀 Missões ](#-miss%C3%B5es-em-andamento) · [ 📊 Bordo ](#-indicadores-de-bordo) · [ 📡 Contato ](#-contato)**
+**[ 🛸 Sobre ](#-sobre-mim) · [ 🖥️ Stack ](#️-tecnologias-e-ferramentas) · [ 📡 Contato ](#-contato)**
 
 </div>
 
