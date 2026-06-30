@@ -116,8 +116,6 @@ Eu não quero apenas escrever código. Quero construir sistemas com **clareza, u
 
 ## 📊 Indicadores de bordo
 
-<!-- Cards quebrando por rate-limit? Suba sua própria instância: docs/github-stats-setup.md -->
-
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=vinifersantos&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=pt-br&cache_seconds=1800" alt="Estatísticas do GitHub" />
