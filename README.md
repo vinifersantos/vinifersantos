@@ -159,14 +159,12 @@ Eu não quero apenas escrever código. Quero construir sistemas com **clareza, u
 <a href="https://github.com/vinifersantos">
   <img src="https://img.shields.io/badge/GitHub-vinifersantos-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
+<a href="https://www.linkedin.com/in/viniciusfertrabalho/">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="mailto:vinicius.blef@gmail.com">
+<a href="mailto:viniciusfer.trabalho@outlook.com">
   <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<sub>💡 Atualize o link do LinkedIn trocando <code>SEU-LINKEDIN-AQUI</code> pelo seu usuário.</sub>
 
 </div>
 
