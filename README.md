@@ -4,12 +4,12 @@
 
 ### `Desenvolvedor em evolução • Estrategista de negócios • Criador de sistemas com propósito`
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Criando+sistemas+para+opera%C3%A7%C3%B5es+reais;Unindo+tecnologia%2C+vendas+e+estrat%C3%A9gia;Estudando+TypeScript%2C+PostgreSQL+e+algoritmos;Vida+longa+e+c%C3%B3digo+limpo+%F0%9F%96%96" alt="Apresentação animada" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Criando+sistemas+para+opera%C3%A7%C3%B5es+reais;Construindo+APIs+com+Java+e+Spring+Boot;Unindo+tecnologia%2C+vendas+e+estrat%C3%A9gia;Vida+longa+e+c%C3%B3digo+limpo+%F0%9F%96%96" alt="Apresentação animada" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-Construindo%20em%20p%C3%BAblico-00E5FF?style=for-the-badge&labelColor=0b0f1a" alt="Status" />
-<img src="https://img.shields.io/badge/FOCO-SaaS%20%7C%20Dados%20%7C%20Automa%C3%A7%C3%A3o-7B61FF?style=for-the-badge&labelColor=0b0f1a" alt="Foco" />
+<img src="https://img.shields.io/badge/FOCO-Java%20%7C%20SaaS%20%7C%20Dados-7B61FF?style=for-the-badge&labelColor=0b0f1a" alt="Foco" />
 <img src="https://komarev.com/ghpvc/?username=vinifersantos&style=for-the-badge&color=00E5FF&label=VISITANTES+DA+NAVE" alt="Visualizações do perfil" />
 
 <br/><br/>
@@ -29,9 +29,9 @@ Minha direção é clara: transformar problemas operacionais em sistemas simples
 Hoje concentro meus projetos em:
 
 - **Sistemas SaaS, CRMs e ferramentas internas**
+- **APIs e aplicações back-end com Java e Spring Boot**
 - **Dashboards comerciais, financeiros e operacionais**
 - **Automação de processos e organização de dados**
-- **Produtos digitais com experiência de uso clara**
 - **Aplicações com autenticação, banco de dados e controle de acesso**
 
 > **O código é a nave. O destino é resolver problemas reais.**
@@ -52,6 +52,14 @@ DIFERENCIAL : tecnologia + vendas + estratégia + visão de operação
 
 ## 🚀 Projetos em destaque
 
+### 🏆 Vincere Flow API — Projeto principal
+
+API de gestão comercial criada para integrar **produtos, estoque, vendas e financeiro** em um único fluxo operacional. O projeto está sendo desenvolvido como um **monólito modular**, com separação por domínios, autenticação, auditoria, indicadores e preparação para deploy e monitoramento no Azure.
+
+`Java 21` · `Spring Boot` · `Maven` · `PostgreSQL` · `Flyway` · `JUnit` · `Mockito` · `Testcontainers` · `Docker` · `Azure`
+
+> Repositório privado em desenvolvimento.
+
 ### 📊 [Dashboard de Faturamentos](https://github.com/vinifersantos/dashboard-faturamentos)
 
 Dashboard web para análise financeira executiva a partir de dados em planilhas. O projeto reúne filtros, indicadores, gráficos, paginação e alternância entre tema claro e escuro.
@@ -62,7 +70,7 @@ Dashboard web para análise financeira executiva a partir de dados em planilhas.
 
 Repositório em construção para documentar exercícios, raciocínio, complexidade, estruturas de dados, SQL e evolução nos estudos de resolução de problemas.
 
-`TypeScript` · `SQL` · `Algoritmos` · `Estruturas de Dados`
+`TypeScript` · `Java` · `SQL` · `Algoritmos` · `Estruturas de Dados`
 
 ### 🔒 Sistemas operacionais privados
 
@@ -74,17 +82,24 @@ Também desenvolvo projetos privados voltados a **CRM, gestão financeira, produ
 
 <div align="center">
 
+### Linguagens
+
+![Java](https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
 ### Front-end
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ### Back-end e dados
 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -92,6 +107,7 @@ Também desenvolvo projetos privados voltados a **CRM, gestão financeira, produ
 ### Cloud, versionamento e design
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -99,7 +115,7 @@ Também desenvolvo projetos privados voltados a **CRM, gestão financeira, produ
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,postgres,supabase,azure,vercel,github,git,figma,vscode" alt="Ícones das tecnologias" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,html,css,js,ts,react,nextjs,nodejs,postgres,supabase,azure,docker,vercel,github,git,figma,vscode" alt="Ícones das tecnologias" />
 
 </div>
 
@@ -108,13 +124,13 @@ Também desenvolvo projetos privados voltados a **CRM, gestão financeira, produ
 ## 📚 Foco de estudos
 
 ```txt
-[01] TypeScript e fundamentos sólidos de JavaScript
-[02] Algoritmos, estruturas de dados e resolução de problemas
-[03] PostgreSQL, modelagem relacional e consultas SQL
-[04] Supabase Auth, Row Level Security e políticas de acesso
-[05] React, Next.js e arquitetura de aplicações web
-[06] Git, GitHub, testes, segurança e boas práticas
-[07] Deploy, observabilidade e evolução de produtos em produção
+[01] Java 21, orientação a objetos e fundamentos da linguagem
+[02] Spring Boot, APIs REST e arquitetura de aplicações back-end
+[03] Algoritmos, estruturas de dados e resolução de problemas
+[04] PostgreSQL, modelagem relacional e consultas SQL
+[05] Testes automatizados com JUnit, Mockito e Testcontainers
+[06] React, Next.js e arquitetura de aplicações web
+[07] Git, GitHub, segurança, Docker, Azure e observabilidade
 ```
 
 Minha meta não é colecionar tecnologias. É entender os fundamentos o suficiente para tomar boas decisões técnicas e construir software que continue funcionando depois do protótipo.
