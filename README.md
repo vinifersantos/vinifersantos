@@ -60,12 +60,6 @@ API de gestão comercial criada para integrar **produtos, estoque, vendas e fina
 
 > Repositório privado em desenvolvimento.
 
-### 📊 [Dashboard de Faturamentos](https://github.com/vinifersantos/dashboard-faturamentos)
-
-Dashboard web para análise financeira executiva a partir de dados em planilhas. O projeto reúne filtros, indicadores, gráficos, paginação e alternância entre tema claro e escuro.
-
-`HTML` · `Tailwind CSS` · `JavaScript` · `Chart.js` · `SheetJS`
-
 ### 🧠 [Estudos de Algoritmos](https://github.com/vinifersantos/estudos-algoritmos)
 
 Repositório em construção para documentar exercícios, raciocínio, complexidade, estruturas de dados, SQL e evolução nos estudos de resolução de problemas.
@@ -106,7 +100,7 @@ Também desenvolvo projetos privados voltados a **CRM, gestão financeira, produ
 
 ### Cloud, versionamento e design
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -174,7 +168,7 @@ perfil:
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
 <a href="mailto:viniciusfer.trabalho@outlook.com">
-  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail" />
 </a>
 
 </div>
