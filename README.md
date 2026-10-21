@@ -4,6 +4,8 @@
 
 **Desenvolvimento de software • Produtos digitais • Inteligência de negócios**
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=3B82F6&center=true&vCenter=true&width=760&height=38&lines=Sistemas+web+para+opera%C3%A7%C3%B5es+reais%3BSaaS%2C+dashboards+e+intelig%C3%AAncia+comercial%3BAPIs%2C+dados+e+automa%C3%A7%C3%A3o+de+processos" alt="Animação: Sistemas web para operações reais; SaaS, dashboards e inteligência comercial; APIs, dados e automação de processos" />
+
 Desenvolvo aplicações que conectam tecnologia, dados e operações comerciais para resolver problemas reais.
 
 [LinkedIn](https://www.linkedin.com/in/viniciusfertrabalho/) · [E-mail](mailto:viniciusfer.trabalho@outlook.com) · [GitHub](https://github.com/vinifersantos)
